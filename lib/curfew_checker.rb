@@ -19,5 +19,6 @@ def platinum_curfew_checker(current_time, curfew_time)
 end
 
 num_of_apples = 6
-  puts "I have #{num_of_apples} apples."
+  if num_of_apples = 6
+    puts "I have #{num_of_apples} apples."
 
