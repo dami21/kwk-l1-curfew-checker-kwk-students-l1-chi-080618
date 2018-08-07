@@ -14,7 +14,7 @@ end
 
 def complex_curfew_checker(time)
   if time = 11
-    "You're in trouble! Better get home quick!"
+    "Time to apparate!"
   end
 end
 
