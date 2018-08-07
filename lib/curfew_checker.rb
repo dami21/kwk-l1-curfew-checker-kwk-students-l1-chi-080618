@@ -37,9 +37,9 @@ def platinum_curfew_checker(current_time, curfew_time)
     "Time to apparate!"
   elsif time > 11
     "You're in trouble! Better get back to Hogwarts quick!"
+  else 
+     "you have #{11-time} hours left to keep having fun!"
+  end 
 end
 
-num_of_apples = 6
-  if num_of_apples = 6
-    puts "I have #{num_of_apples} apples."
 
