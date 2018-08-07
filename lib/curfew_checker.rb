@@ -8,7 +8,7 @@ def curfew_checker(time)
  if time >= 11
     "You're in trouble! Better get home quick!"
   else
-    "keep having fun!"
+    "Keep having fun!"
   end
 end
 
