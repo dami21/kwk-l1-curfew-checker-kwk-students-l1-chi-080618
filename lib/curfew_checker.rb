@@ -34,6 +34,9 @@ end
 
 def platinum_curfew_checker(current_time, curfew_time)
   if time == 11
+    "Time to apparate!"
+  elsif time > 11
+    
 end
 
 num_of_apples = 6
